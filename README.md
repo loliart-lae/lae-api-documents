@@ -1,2 +1,2 @@
-# lae-api-doc
-Lae Public API Doc
+# lae-api-documents
+Light App Engine API Documents
