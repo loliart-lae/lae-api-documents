@@ -16,4 +16,11 @@
 
 ### 示例
 
-输入
+#### 输入示例
+
+```
+https://lightappengine.test/api/tunnels?name=test_api&protocol=http&local_address=localhost:80&project_id=1&server_id=3&custom_domain=helloworld.com
+```
+
+#### 输出示例
+
