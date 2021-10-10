@@ -12,8 +12,8 @@
 
 ### 输出参数
 
-| 参数名称 |   |   |
-| ---- | - | - |
-|      |   |   |
-|      |   |   |
-|      |   |   |
+<table><thead><tr><th>参数名称</th><th data-type="select">类型</th><th>描述</th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+### 示例
+
+输入
