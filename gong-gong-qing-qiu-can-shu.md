@@ -6,4 +6,8 @@
 
 <table><thead><tr><th>参数名称</th><th data-type="checkbox">必选</th><th data-type="select">类型</th><th>描述</th></tr></thead><tbody><tr><td>api_token</td><td>true</td><td></td><td>用户 token</td></tr></tbody></table>
 
-参数介绍
+### 参数描述
+
+#### api_token
+
+在每个请求当中都必须包含的参数，用户可以在 Lae 的个人
