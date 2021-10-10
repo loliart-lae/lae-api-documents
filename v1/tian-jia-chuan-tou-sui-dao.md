@@ -8,10 +8,4 @@
 
 ### 传入参数
 
-| 参数名称 | 必选 | 类型 | 描述 |
-| ---- | -- | -- | -- |
-|      |    |    |    |
-|      |    |    |    |
-|      |    |    |    |
-|      |    |    |    |
-|      |    |    |    |
+<table><thead><tr><th>参数名称</th><th data-type="checkbox">必选</th><th>类型</th><th>描述</th></tr></thead><tbody><tr><td>name</td><td>true</td><td></td><td></td></tr><tr><td>protocol</td><td>true</td><td></td><td></td></tr><tr><td></td><td>true</td><td></td><td></td></tr><tr><td></td><td>true</td><td></td><td></td></tr><tr><td></td><td>true</td><td></td><td></td></tr></tbody></table>
