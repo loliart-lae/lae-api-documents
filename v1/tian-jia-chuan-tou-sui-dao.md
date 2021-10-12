@@ -10,6 +10,8 @@
 
 以下请求参数列表仅列出了接口请求参数，完整公共参数列表见 [公共请求参数](../gong-gong-qing-qiu-can-shu.md)。
 
+<table><thead><tr><th>参数名称</th><th data-type="checkbox">必选</th><th data-type="select">类型</th><th>描述</th></tr></thead><tbody><tr><td>name</td><td>true</td><td></td><td>隧道名称</td></tr><tr><td>protocol</td><td>true</td><td></td><td>隧道协议</td></tr><tr><td>local_address</td><td>true</td><td></td><td>本地地址，包含端口</td></tr><tr><td>project_id</td><td>true</td><td></td><td>项目 ID</td></tr><tr><td>server_id</td><td>true</td><td></td><td>服务器 ID</td></tr><tr><td>custom_domain</td><td>false</td><td></td><td>域名，Http(s) 协议须填写</td></tr></tbody></table>
+
 ### 输出参数
 
 ### 示例
