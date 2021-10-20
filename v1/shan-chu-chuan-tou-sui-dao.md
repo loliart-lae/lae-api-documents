@@ -21,7 +21,7 @@
 #### 输入示例
 
 ```
-DELETE https://lightappengine.test/api/v1/_tunnels/233
+DELETE https://lightart.top/api/v1/_tunnels/233
 ```
 
 #### 输出示例

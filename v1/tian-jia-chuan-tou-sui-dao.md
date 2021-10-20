@@ -21,7 +21,7 @@
 #### 输入示例
 
 ```
-POST https://lightappengine.test/api/v1/tunnels?name=test_api
+POST https://lightart.top/api/v1/tunnels?name=test_api
 &protocol=http
 &local_address=localhost:80
 &project_id=1
