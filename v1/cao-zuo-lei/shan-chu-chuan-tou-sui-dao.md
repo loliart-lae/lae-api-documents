@@ -8,7 +8,7 @@
 
 ### 传入参数
 
-以下请求参数列表仅列出了接口请求参数，完整公共参数列表见 [公共请求参数](../gong-gong-qing-qiu-can-shu.md)。
+以下请求参数列表仅列出了接口请求参数，完整公共参数列表见 [公共请求参数](../../gong-gong-qing-qiu-can-shu.md)。
 
 <table><thead><tr><th>参数名称</th><th data-type="checkbox">必选</th><th>类型</th><th>描述</th></tr></thead><tbody><tr><td>None</td><td>true</td><td>String</td><td>隧道 ID</td></tr></tbody></table>
 

@@ -5,8 +5,9 @@
 
 ## v1
 
-* [Page 1](v1/page-1.md)
-* [获取已有穿透隧道](v1/huo-qu-yi-you-chuan-tou-sui-dao.md)
-* [添加穿透隧道](v1/tian-jia-chuan-tou-sui-dao.md)
-* [删除穿透隧道](v1/shan-chu-chuan-tou-sui-dao.md)
-* [获取穿透隧道配置文件](v1/huo-qu-chuan-tou-sui-dao-pei-zhi-wen-jian.md)
+* [操作类](v1/cao-zuo-lei/README.md)
+  * [删除穿透隧道](v1/cao-zuo-lei/shan-chu-chuan-tou-sui-dao.md)
+  * [添加穿透隧道](v1/cao-zuo-lei/tian-jia-chuan-tou-sui-dao.md)
+* [获取类](v1/huo-qu-lei/README.md)
+  * [获取已有穿透隧道](v1/huo-qu-lei/huo-qu-yi-you-chuan-tou-sui-dao.md)
+  * [获取穿透隧道配置文件](v1/huo-qu-lei/huo-qu-chuan-tou-sui-dao-pei-zhi-wen-jian.md)
