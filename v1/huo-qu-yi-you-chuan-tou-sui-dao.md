@@ -14,7 +14,24 @@
 
 ### 输出参数
 
-<table><thead><tr><th>参数名称</th><th data-type="select">类型</th><th>描述</th></tr></thead><tbody><tr><td>id</td><td></td><td>隧道 ID</td></tr><tr><td>name</td><td></td><td>隧道名称</td></tr><tr><td>protocol</td><td></td><td>隧道协议</td></tr><tr><td>custom_domain</td><td></td><td>隧道域名（HTTP/HTTPS）</td></tr><tr><td>local_address</td><td></td><td>本地地址</td></tr><tr><td>remote_port</td><td></td><td>远程端口</td></tr><tr><td>client_token</td><td></td><td>程序 Token</td></tr><tr><td>sk</td><td></td><td>XTCP 密钥</td></tr><tr><td>status</td><td></td><td>隧道在线状态</td></tr><tr><td>server_id</td><td></td><td>隧道所属节点 ID</td></tr><tr><td>project_id</td><td></td><td>隧道所属项目 ID</td></tr><tr><td>created_at</td><td></td><td>隧道创建时间</td></tr><tr><td>updated_at</td><td></td><td>隧道最后更新时间</td></tr><tr><td>ping</td><td></td><td>隧道最后 Ping</td></tr></tbody></table>
+
+
+| 参数名称           | 类型      | 描述               |
+| -------------- | ------- | ---------------- |
+| id             | Integer | 隧道 ID            |
+| name           | String  | 隧道名称             |
+| protocol       | String  | 隧道协议             |
+| custom\_domain | String  | 隧道域名（HTTP/HTTPS） |
+| local\_address | String  | 本地地址             |
+| remote\_port   | Integer | 远程端口             |
+| client\_token  | String  | 程序 Token         |
+| sk             | String  | XTCP 密钥          |
+| status         | Integer | 隧道在线状态           |
+| server\_id     | Integer | 隧道所属节点 ID        |
+| project\_id    | Integer | 隧道所属项目 ID        |
+| created\_at    | String  | 隧道创建时间           |
+| updated\_at    | String  | 隧道最后更新时间         |
+| ping           | String  | 隧道最后 Ping        |
 
 ### 示例
 
