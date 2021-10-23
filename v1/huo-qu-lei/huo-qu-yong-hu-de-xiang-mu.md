@@ -14,15 +14,21 @@
 
 ### 输出参数
 
-| 参数名称           | 类型      | 描述               |
-| -------------- | ------- | ---------------- |
-| id             | Integer | 隧道 ID            |
-| name           | String  | 隧道名称             |
-| protocol       | String  | 隧道协议             |
-| custom\_domain | String  | 隧道域名（HTTP/HTTPS） |
-| local\_address | String  | 本地地址             |
-| remote\_port   | Integer | 远程端口             |
-| client\_token  | String  | 程序 Token         |
+| 参数名称                | 类型      | 描述               |
+| ------------------- | ------- | ---------------- |
+| id                  | Integer | 用户在该项目中的 ID      |
+| user\_id            | Integer | 用户 ID            |
+| project\_id         | Integer | 项目 ID            |
+| created\_at         | String  | 隧道域名（HTTP/HTTPS） |
+| updated\_at         | String  | 用户创建时间           |
+| remote\_port        | String  | 用户更新时间           |
+| project.id          | Integer | 项目 ID            |
+| project.name        | String  | 项目名称             |
+| project.description | String  | 项目描述             |
+| project.user\_id    | Integer | 项目创建者 ID         |
+| project.created\_at | String  | 项目创建时间           |
+| project.updated\_at | String  | 项目更新时间           |
+| project.balance     | Float   | 项目积分余额           |
 
 ### 示例
 
