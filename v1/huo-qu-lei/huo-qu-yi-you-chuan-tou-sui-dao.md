@@ -14,8 +14,6 @@
 
 ### 输出参数
 
-
-
 | 参数名称           | 类型      | 描述               |
 | -------------- | ------- | ---------------- |
 | id             | Integer | 隧道 ID            |
@@ -26,7 +24,7 @@
 | remote\_port   | Integer | 远程端口             |
 | client\_token  | String  | 程序 Token         |
 | sk             | String  | XTCP 密钥          |
-| status         | Integer | 隧道在线状态           |
+| status         | Integer | 隧道状态             |
 | server\_id     | Integer | 隧道所属节点 ID        |
 | project\_id    | Integer | 隧道所属项目 ID        |
 | created\_at    | String  | 隧道创建时间           |
